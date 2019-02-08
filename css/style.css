@@ -31,7 +31,11 @@ h3 {
 
 .pro {
   float: right;
+  padding: 10px
 }
 p{
   padding-left: 20px;
-}(
+}
+.pro, ul, li {
+  color: green;
+}
