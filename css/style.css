@@ -17,12 +17,12 @@ h1 {
 }
 h2 {
   font-size: 50px;
-  color: red;
+  color: blue;
   padding-left: 20px;
   }
 h3 {
   font-size: 50px;
-  color: red;
+  color: purple;
   padding-right: 200px;
 }
 .art{
@@ -38,4 +38,18 @@ p{
 }
 .pro, ul, li {
   color: green;
+}
+.image p {
+  font-size: 30px;
+}
+h4 {
+  font-size: 50px;
+  color: red;
+  padding-left: 20px;
+}
+.pro, ul, li, a {
+  font-size: 30px;
+}
+.me {
+  font-size: 30px;
 }
