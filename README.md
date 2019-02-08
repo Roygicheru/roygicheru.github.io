@@ -4,11 +4,11 @@
 ## Description
 This is a web portfilio focused on expressing about myself and also some of my work in Moringa School .
 ## Setup/Installation Requirements
-* This is a great place
-* to list setup instructions
-* in a simple
-* easy-to-understand
-* format
+* A reliable internet connection
+* LINUX UBUNTU operating system installed
+* git installed in a LINUX terminal
+* An online GIThub account
+* Atom text editor
 
 ## Known Bugs
 {Are there issues that have not yet been resolved that you want to let users know you know? Outline any issues that would impact use of your application. Share any workarounds that are in place. }
