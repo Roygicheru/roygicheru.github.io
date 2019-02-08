@@ -18,11 +18,16 @@ h1 {
 h2 {
   font-size: 50px;
   color: red;
+  border-width: medium;
 }
 h3 {
   font-size: 50px;
   color: red;
 }
 .art{
-  border-radius: 40%;
+  border-radius: 50%
+}
+
+.pro {
+  float: right;
 }
