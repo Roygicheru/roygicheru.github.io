@@ -1,0 +1,28 @@
+body {
+  background-color: lightblue;
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-attachment: fixed;
+  background-size: cover;
+}
+h1 {
+  text-align: center;
+  color: green;
+  font-weight: 400;
+  font-size: 80px;
+  background-image: url("../image/background.jpg");
+  background-size: cover;
+  height: 120px;
+  font-style: italic;
+}
+h2 {
+  font-size: 50px;
+  color: red;
+}
+h3 {
+  font-size: 50px;
+  color: red;
+}
+.art{
+  border-radius: 40%;
+}
